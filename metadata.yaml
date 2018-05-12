@@ -1,0 +1,44 @@
+_repo: Miss-Santa-Claus-of-the-Pullman_41604
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald Bathhurst
+    - Birch, Reginald B. (Reginald Bathurst)
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: archival
+  image_path: 41604-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2012-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pullman cars -- Fiction'
+- !lcsh 'Railroad travel -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Children -- Fiction'
+- !lcsh 'Christmas stories'
+title: Miss Santa Claus of the Pullman
+url: http://www.gutenberg.org/ebooks/41604
